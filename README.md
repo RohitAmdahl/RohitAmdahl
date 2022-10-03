@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on work.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about .anything..
-- 📫 How to reach me: .call me ..
+- 📫 How to reach me: .call me .+47 40538464.
 - 😄 Pronouns: .Rohit..
 - ⚡ Fun fact: ..
