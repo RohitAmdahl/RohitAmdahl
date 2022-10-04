@@ -6,11 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on task
-- 🌱 I’m currently learning- design and front-end-coding
+- 🔭 I’m currently working on Portfolio.
+- 🌱 I’m currently learning- design and front-end.
 - 👯 I’m looking to collaborate on work.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about .anything..
 - 📫 How to reach me: .call me .+47 40538464.
-- 😄 Pronouns: .Rohit..
-- ⚡ Fun fact: ..
+- 😄 Pronouns: .Rohit
+- ⚡ Fun fact: .designer and coder.
