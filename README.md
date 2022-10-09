@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about .anything..
 - 📫 How to reach me: .call me .+47 40538464.
 - 😄 Pronouns: .Rohit
-- ⚡ Fun fact: .designer and coder.
+- ⚡ Fun fact: .U can call me DESIGNER and then I am a < CODER > ;D.
