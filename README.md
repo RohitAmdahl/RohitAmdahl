@@ -1,5 +1,5 @@
 ### Hi there 👋
-### working on Semester project -2 
+### working on Semester project -2 :) porfolio is not updated, but check out my portfolio to get some idea about my work and MY WORK STYLE 
 
 <!--
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
