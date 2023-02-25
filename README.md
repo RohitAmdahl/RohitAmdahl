@@ -5,7 +5,7 @@
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+Here are some ideas to get you Know about me :
 
 - 🔭 I’m currently working on Portfolio and semester-project-2.
 - 🌱 I’m currently learning front-end and Automation testing.
