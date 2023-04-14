@@ -1,6 +1,4 @@
 ### Hi there 👋
-### i m learning and working on my portfolio, 
-
 <!--
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
