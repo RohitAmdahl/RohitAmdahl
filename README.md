@@ -14,7 +14,7 @@ Here are some ideas to get you know about me :
   <h1>Skills</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,postman,supabase,xd,ps,git,github,codepen,vscode,wordpress&perline=8"/>
+      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,postman,supabase,xd,ps,git,vscode,wordpress&perline=8"/>
     </a>
   </p>
 </div>
