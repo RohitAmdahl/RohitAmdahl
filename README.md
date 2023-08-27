@@ -14,11 +14,4 @@ Feel free to take a look around and check out my projects :open_file_folder:. If
 [![](https://img.shields.io/badge/Email-lightgrey.svg)](mailto:rohit_designer@outlook.com)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-amdahl-308047140/)
 
-<div>
-  <h1>Skills</h1>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,postman,supabase,xd,ps,git,vscode,wordpress&perline=8"/>
-    </a>
-  </p>
-</div>
+
