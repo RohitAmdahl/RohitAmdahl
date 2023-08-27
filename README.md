@@ -1,10 +1,8 @@
-# Hi there 👋
+# Hi there 👋![avatar_profile_](https://github.com/RohitAmdahl/RohitAmdahl/assets/91061651/751e54d6-8730-44f7-a76a-27a2a6bd2ef1)
+
 <!--
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you know about me :
-
 -  I’m currently looking for a job.
 -  How to reach me: .call me .+47 40538464.
 -  Pronouns: Rohit
