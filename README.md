@@ -5,10 +5,10 @@
 
 Here are some ideas to get you know about me :
 
-- 🔭 I’m currently looking for a job.
-- 📫 How to reach me: .call me .+47 40538464.
-- 😄 Pronouns: Rohit
-- Currently studying Frontend Development at Noroff /  final exams 🏫
+-  I’m currently looking for a job.
+-  How to reach me: .call me .+47 40538464.
+-  Pronouns: Rohit
+- Currently studying Frontend Development at Noroff. 
 
 ## Connect with me :speech_balloon:
 Feel free to take a look around and check out my projects :open_file_folder:. If you have any feedback or suggestions, I'd love to hear from you. You can reach me via email by clicking on the icon below :mailbox_with_mail:
