@@ -5,23 +5,13 @@
 <!--
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div>
-              <ul>
-                <li>
-                  Check out my projects
-                </li>
-                 <li>Skills.</li> 
-                <ul>
-                  <li> Html5, Css3, javascript.</li>
-                  <li>
-                    Wordpress, style-components, Sass, framer-motion, Bootstrap,
-                    TailwindCss.
-                  </li>
-                  <li>React.js, Typescript.</li>
-                  <li>Supabase, firebase, mongoDB </li>
-                </ul>
-              </ul>
-            </div>
+
+- Junior Frontend Developer, Noroff graduate okt-2023.
+- Skills.
+  - Html5, Css3, javascript.
+  - Wordpress, style-components, Sass, framer-motion, Bootstrap, TailwindCss.
+  - React.js, Typescript.
+  - Supabase, firebase, mongoDB
 
 ## Connect with me :speech_balloon:
 
