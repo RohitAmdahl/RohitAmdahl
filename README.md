@@ -6,7 +6,8 @@
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Junior Frontend Developer, Noroff graduate okt-2023.
+## Junior Frontend Developer, Noroff graduate okt-2023.
+
 - Skills.
   - Html5, Css3, javascript.
   - Wordpress, style-components, Sass, framer-motion, Bootstrap, TailwindCss.
