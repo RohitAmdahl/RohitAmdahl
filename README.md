@@ -1,10 +1,10 @@
-# Hi there 👋
-
 ![avatar_profile_](https://github.com/RohitAmdahl/RohitAmdahl/assets/91061651/751e54d6-8730-44f7-a76a-27a2a6bd2ef1)
 
 <!--
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+# Hi there 👋 I Am Rohit
 
 ## Junior Frontend Developer, Noroff graduate okt-2023.
 
