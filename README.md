@@ -4,8 +4,23 @@
 <!--
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
--  I’m currently looking for a job.
-- Currently studying Frontend Development at Noroff. 
+<div>
+              <ul>
+                <li>
+                  Check out my projects
+                </li>
+                 <li>Skills.</li> 
+                <ul>
+                  <li> Html5, Css3, javascript.</li>
+                  <li>
+                    Wordpress, style-components, Sass, framer-motion, Bootstrap,
+                    TailwindCss.
+                  </li>
+                  <li>React.js, Typescript.</li>
+                  <li>Supabase, firebase, mongoDB </li>
+                </ul>
+              </ul>
+            </div>
 
 ## Connect with me :speech_balloon:
 Feel free to take a look around and check out my projects :open_file_folder:. If you have any feedback or suggestions, I'd love to hear from you. You can reach me via email and LinkedIn by clicking on the icon  :mailbox_with_mail:
