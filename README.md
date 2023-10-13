@@ -12,7 +12,7 @@
   - Html5, Css3, javascript.
   - Wordpress, style-components, Sass, framer-motion, Bootstrap, TailwindCss.
   - React.js, Typescript.
-  - Supabase, firebase, mongoDB
+  - Supabase, firebase, 
 
 ## Connect with me :speech_balloon:
 
