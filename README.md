@@ -9,10 +9,13 @@
 ## Junior Frontend Developer, Noroff graduate okt-2023.
 
 - Skills.
-  - Html5, Css3, javascript.
-  - Wordpress, style-components, Sass, framer-motion, Bootstrap, TailwindCss.
-  - React.js, Typescript.
-  - Supabase, firebase, 
+   
+    - HTML5, CSS3, JavaScript, React, TypeScript
+    - Git, GitHub, Version Control
+    - WordPress, styled-components, Sass, framer-motion, Bootstrap, Tailwind CSS
+    - Design tools:- Figma, Adobe XD, Project management: Trello, WCAG
+    - Basic End To End testing
+    - Backend:- Supabase, Firebase, MongoDB, Express.js, Node.js
 
 ## Connect with me :speech_balloon:
 
