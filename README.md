@@ -5,6 +5,7 @@
 -->
 
 # Hi there 👋 I Am Rohit
+# I am working on BIM software and learning Next.Js
 
 ## Junior Frontend Developer, Noroff graduate okt-2023.
 
