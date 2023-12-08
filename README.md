@@ -5,9 +5,9 @@
 -->
 
 # Hi there 👋 I Am Rohit
-# I am working on BIM software (IFC.Js) and learning Next.Js
+# I am working on BIM software Application (IFC.Js) and learning Next.Js
 
-## Junior Frontend Developer, Noroff graduate okt-2023.
+## Frontend Developer, Noroff graduate okt-2023.
 
 - Skills.
    
