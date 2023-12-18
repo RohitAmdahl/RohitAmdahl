@@ -5,7 +5,7 @@
 -->
 
 # Hi there 👋 I Am Rohit
-# I am working on BIM software Application (IFC.Js) and learning Next.Js
+# I am learning Next.Js
 
 ## Frontend Developer, Noroff graduate okt-2023.
 
@@ -16,7 +16,7 @@
     - WordPress, styled-components, Sass, framer-motion, Bootstrap, Tailwind CSS
     - Design tools:- Figma, Adobe XD, Project management: Trello, WCAG
     - Basic End To End testing
-    - Backend:- Supabase, Firebase, MongoDB, Express.js, Node.js
+    - Backend:- Firebase, MongoDB, Express.js, Node.js
 
 ## Connect with me :speech_balloon:
 
