@@ -5,7 +5,7 @@
 -->
 
 # Hi there 👋 I Am Rohit
-# I am learning Next.Js
+
 
 ## Frontend Developer, Noroff graduate okt-2023.
 
