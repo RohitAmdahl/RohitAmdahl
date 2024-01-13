@@ -1,22 +1,10 @@
 ![avatar_profile_](https://github.com/RohitAmdahl/RohitAmdahl/assets/91061651/751e54d6-8730-44f7-a76a-27a2a6bd2ef1)
-
 <!--
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 # Hi there 👋 I Am Rohit
-
-
 ## Frontend Developer, Noroff graduate okt-2023.
 
-- Skills.
-   
-    - HTML5, CSS3, JavaScript, React, TypeScript
-    - Git, GitHub, Version Control
-    - WordPress, styled-components, Sass, framer-motion, Bootstrap, Tailwind CSS
-    - Design tools:- Figma, Adobe XD, Project management: Trello, WCAG
-    - Basic End To End testing
-    - Backend:- Firebase, MongoDB, Express.js, Node.js
 
 ## Connect with me :speech_balloon:
 
