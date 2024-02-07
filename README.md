@@ -3,7 +3,7 @@
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋 I Am Rohit
-## Frontend Developer, Noroff graduate okt-2023.
+## Frontend Developer
 
 
 ## Connect with me :speech_balloon:
