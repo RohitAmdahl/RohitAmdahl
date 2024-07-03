@@ -3,9 +3,6 @@
 **RohitAmdahl/RohitAmdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Rohit k.Amdahl
-## Frontend Developer
-
-
 ## Connect with me :speech_balloon:
 
 Feel free to take a look around and check out my projects :open_file_folder:. If you have any feedback or suggestions, I'd love to hear from you. You can reach me via email and LinkedIn by clicking on the icon :mailbox_with_mail:
